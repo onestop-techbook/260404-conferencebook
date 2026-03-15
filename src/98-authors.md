@@ -48,8 +48,10 @@ class: author
     </div>
 </div>
 <p style="margin-top: 0.5em; margin-bottom: 2em;">
-できることから精一杯頑張ります！
+開発エンジニアをやっています。チームが楽しそうに働いている姿を見るのが好き。そのために何が出来るかを常に考えています。日々出来ることを増やしていきたい。ゴルフも好き。
 </p>
+
+<br>
 
 <div class="author-profile">
     <img src="images/FORTE.jpg">
@@ -65,6 +67,9 @@ class: author
 </div>
 <p style="margin-top: 0.5em; margin-bottom: 2em;">
 Webアプリケーションのバックエンドエンジニアですが、いろいろやってます。Twitter、ブログ、Podcast配信、数多くの趣味と楽しく活動中。
+</p>
+
+<br>
 
 <div class="author-profile">
     <img src="images/FUMIYA.jpg">
@@ -79,3 +84,18 @@ Webアプリケーションのバックエンドエンジニアですが、い�
 「後悔のない人生」を目標に、迷ったらまず動くことを心がけています。
 人に恵まれて育ってきたので、人とのつながりを大切にしています。
 北海道出身。趣味は旅行・映画・読書。
+
+<br>
+
+<div class="author-profile">
+    <img src="iimages\ponyoxa_icon.jpg">
+    <div>
+        <div>
+            <b>ぽにょ @ponyoxa</b>
+			<a href="https://X.com/ponyoxa">@ponyoxa</a>
+        </div>
+    </div>
+</div>
+<p style="margin-top: 0.5em; margin-bottom: 2em;">
+
+主にバックエンドエンジニアをやってます。Joshi.ts という TypeScript の女性コミュニティを最近立ち上げました。
