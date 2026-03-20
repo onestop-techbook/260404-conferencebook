@@ -61,9 +61,13 @@ FORTE(フォルテ)@FORTEgp05
 
 ![aozora.fm](images/chap-forte/QR_aozorafm.png)
 
+さらにソフトウェア開発の話題専用のPodcast、みいだしfmもあります。
+
+![みいだしfm](images/chap-forte/QR_miidashifm.png)
+
 私と主催の親方さんも関わっている技書博という同人誌即売会のPodcast 技書博ラジオというPodcastもあります。
 
-![aozora.fm](images/chap-forte/QR_gisyohaku.png)
+![技書博ラジオ](images/chap-forte/QR_gisyohaku.png)
 
 よろしくお願いします！
 

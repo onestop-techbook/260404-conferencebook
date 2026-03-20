@@ -55,6 +55,7 @@ const def = {
     "chap-mossann.md",
 	  "chap-jun.md",
     "chap-FUMIYA.md",
+    "chap-imai.md",
     "chap-okamoto.md",
 	  "chap-oyakata.md",
 	  "chap-nyago.md",
