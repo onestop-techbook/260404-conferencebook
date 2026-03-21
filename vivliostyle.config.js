@@ -29,6 +29,7 @@ const def = {
 
     // 第二部 Vivliostyleについて
     "part-tips.md",
+	"chap-syossan27.md",
     "chap-dpon.md",
     "chap-ryo.md",
     "chap-aizack.md",
@@ -39,7 +40,6 @@ const def = {
     "chap-mae616.md",
     "chap-kouno.md",
     "chap-viva.md",
-    "chap-syossan27.md",
     "chap-comi-cnannotOutput.md",
     "chap-takahashin-inputnooutput.md",
     "chap-koizumi-todan.md",

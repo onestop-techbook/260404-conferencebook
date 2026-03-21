@@ -30,7 +30,7 @@ class: colophon
         <tr>
             <td>　</td>
             <td>印刷所</td>
-            <td>K-9</td>
+            <td>プリントパック</td>
         </tr>
     </table>
     <div>&copy; 2026 ワンストップアウトプット！　実行委員会/親方Project</div>

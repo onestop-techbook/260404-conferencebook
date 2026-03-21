@@ -88,7 +88,7 @@ Webアプリケーションのバックエンドエンジニアですが、い�
 <br>
 
 <div class="author-profile">
-    <img src="iimages\ponyoxa_icon.jpg">
+    <img src="images\ponyoxa_icon.jpg">
     <div>
         <div>
             <b>ぽにょ @ponyoxa</b>

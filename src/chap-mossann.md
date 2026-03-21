@@ -66,7 +66,7 @@ Bは機能の割に値段が高くてダメなので、Aがオススメ
 以上、もっさん(@_mossann_t)でした。  
 
   
-#### 著者紹介
+#### 本章の執筆者
 
 <div class="author-profile">
     <img src="images/mossann_icon.jpg">

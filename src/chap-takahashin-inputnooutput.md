@@ -60,7 +60,8 @@ class: chapter
 
 それが、私にとっての「インプットを大切にするためのアウトプット」です。
 
-#### 著者紹介
+  
+#### 本章の執筆者
 
 <div class="author-profile">
     <img src="images/hatagaya.jpg">

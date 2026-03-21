@@ -126,3 +126,16 @@ class: chapter
 まずは、社外プロポーザルに「いいね」を押してみてください。
 そこから、あなたの探究もきっと広がっていきます。
 
+#### 本章の執筆者
+
+<div class="author-profile">
+    <img src="images/koizumi.jpg">
+    <div>
+        <div>
+            <b>小泉岳人 </b>
+            <a href="https://x.com/koitake_">X@koitake_</a>
+        </div>
+    </div>
+</div>
+<p style="margin-top: 0.5em; margin-bottom: 2em;">
+金融系のわりとお堅めシステムのシステムエンジニアをしています。アジャイル等のコミュニティに出没中。

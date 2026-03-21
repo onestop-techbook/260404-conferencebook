@@ -164,7 +164,8 @@ iOSエンジニアのコミュニティでも、まだ僕がiOSエンジニア�
 
 それが、世界を広げる第一歩になるはずです。
 
-#### 著者紹介
+  
+#### 本章の執筆者
 
 <div class="author-profile">
     <img src="images/fumiyasac.jpg">

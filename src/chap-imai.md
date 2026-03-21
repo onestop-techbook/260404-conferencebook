@@ -1,3 +1,8 @@
+---
+class: chapter
+---
+
+
 # "アウトプット"のアウトプットをしてみた
 
 <div class="flush-right">

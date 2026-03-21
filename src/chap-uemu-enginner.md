@@ -126,6 +126,9 @@ HTML / CSS / JavaScript / Vue.js を幅広く学ぶカリキュラム型の勉�
 もし今、立ち止まっている人がいたら、今日、1行だけ何かを書いてみてください。
 それが、すべての始まりになります。
 
+
+#### 本章の執筆者
+
 <div class="author-profile">
     <img src="images/uemu-icon.jpg">
     <div>

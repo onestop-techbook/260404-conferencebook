@@ -65,7 +65,8 @@ https://zenn.dev/stafes_blog/articles/conference-roadmap
 "手を動かした者だけが世界を変える"らしい
 https://note.com/ponpon63/n/na21099d9cda0
 
-#### 著者紹介
+  
+#### 本章の執筆者
 
 <div class="author-profile">
     <img src="images/chap-dpon/dpon.jpg">

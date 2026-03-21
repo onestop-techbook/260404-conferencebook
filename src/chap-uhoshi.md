@@ -59,7 +59,8 @@ SNSで流れてくる誰かの成果を見るたびに、置いていかれる�
 
 あなたの一歩が、誰かと繋がるきっかけになるかもしれません。
 
-#### 著者紹介
+  
+#### 本章の執筆者
 
 <div class="author-profile">
     <img src="images/uhoshi-icon.jpg">
